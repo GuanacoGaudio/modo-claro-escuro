@@ -100,36 +100,6 @@ Use ferramentas como o Lighthouse ou WAVE para verificar se o seu site está rea
 
 ---
 
-## Recursos Avançados
-
-### Tabelas
-Organize informações importantes:
-```markdown
-| Recurso                | Implementação         | Descrição                                         |
-|------------------------|-----------------------|-------------------------------------------------|
-| Modo Claro/Escuro      | HTML, CSS, JavaScript | Alternância de tema com boas práticas de design. |
-| Acessibilidade         | CSS e Ferramentas     | Foco em conforto visual para todos os usuários. |
-```
-
-### Capturas de Tela ou GIFs
-Adicione exemplos visuais:
-```markdown
-![Exemplo do Modo Claro/Escuro](https://via.placeholder.com/800x400.png?text=Exemplo)
-```
-
-### Sumário Automático
-Facilite a navegação com índices:
-```markdown
-## Índice
-1. [Introdução](#introdução)
-2. [Por que adotar o modo claro/escuro?](#por-que-adotar-o-modo-claroescuro)
-3. [Exemplo prático](#exemplo-prático)
-4. [Boas práticas](#boas-práticas)
-5. [Conclusão](#conclusão)
-```
-
----
-
 ## Conclusão
 
 O modo claro/escuro é uma funcionalidade acessível, útil e bem-vista por usuários. Implementá-lo não é apenas uma questão de estilo, mas um passo importante para tornar o mundo digital mais inclusivo.
